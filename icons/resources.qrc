@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons8-funnel-32.png</file>
+    <file>icons8-send-32.png</file>
+    <file>icons8-settings-16.png</file>
+    <file>icons8-menu-16.png</file>
+    <file>icons8-health-data-16.png</file>
+    <file>icons8-horizontal-line-16.png</file>
+    <file>icons8-rounded-square-16.png</file>
+    <file>icons8-close-16.png</file>
+  </qresource>
+</RCC>
